@@ -33,7 +33,7 @@
         "devextreme-angular": "19.1.5",
         "easytimer.js": "^4.0.1",
         "googleapis": "33.0.0",
-        "jquery": "3.4.1",
+        "jquery": "3.5.0",
         "material-design-icons": "^3.0.1",
         "perfect-scrollbar": "1.4.0",
         "rxjs": "6.4.0",
